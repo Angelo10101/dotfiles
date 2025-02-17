@@ -1,0 +1,113 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$APPLICATION_CONFIG_DIR$/light-edit">
+          <value>
+            <RecentProjectMetaInfo frameTitle="HelloWorld.java - .../javasem3/HelloWorld" hidden="true" projectWorkspaceId="2sltIpyGeysAyuJjoU9mWHUBUK1">
+              <option name="activationTimestamp" value="1739047764788" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="2883" y="60" width="949" height="1012" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/javasem3/HelloWorld2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="HelloWorld2" projectWorkspaceId="2sm12R3T8Cl63NUcT8mN4RDzjPj">
+              <option name="activationTimestamp" value="1739046537016" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="1927" y="59" width="1906" height="1014" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1739045728408" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/HelloWorld">
+          <value>
+            <RecentProjectMetaInfo frameTitle="HelloWorld" projectWorkspaceId="2sm3LzkUxNfJQSIZzKx8Zayd5m8">
+              <option name="activationTimestamp" value="1739046977282" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="1927" y="59" width="1906" height="1014" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1739046877615" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/javasem3/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled" projectWorkspaceId="2sm3ZOx2afQLAyXSm7mUyZbuMTV">
+              <option name="activationTimestamp" value="1739047349181" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="1927" y="59" width="1906" height="1014" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1739046978098" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/javasem3/HelloWorld">
+          <value>
+            <RecentProjectMetaInfo frameTitle="HelloWorld" projectWorkspaceId="2sm4KDK4aTYP9x5f1kyQu3p1KSw">
+              <option name="activationTimestamp" value="1739049088909" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="1927" y="59" width="1906" height="1014" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1739047349719" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/javasem3/HelloWorldProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="HelloWorldProject – Main.java" projectWorkspaceId="2sm7qtZWtH7hxDOwJBfO5nxM1hj">
+              <option name="activationTimestamp" value="1739049427680" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="1927" y="59" width="1906" height="1014" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1739049089565" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/javasem3/myProject">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2sm8XHGHoUpUwahc9nWUTrGds71">
+              <option name="activationTimestamp" value="1739049842510" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.23654.189" />
+              <option name="buildTimestamp" value="1738136160000" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1739049428097" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/javasem3/myProject" />
+    <option name="lastProjectLocation" value="$USER_HOME$/javasem3" />
+  </component>
+</application>

@@ -1,0 +1,7 @@
+order += "battery"
+battery 0 {
+    format = "%status %percentage %remaining"
+    low_threshold = 15
+    threshold_type = time
+}
+

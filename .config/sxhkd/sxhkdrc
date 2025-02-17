@@ -1,0 +1,10 @@
+# Caps Lock + i/j/k/l as arrow keys
+hyper + i
+    xdotool key Up
+hyper + j
+    xdotool key Left
+hyper + k
+    xdotool key Down
+hyper + l
+    xdotool key Right
+

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/asdf/wacom-setup.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=wacom setup
+Name=wacom setup
+Comment[en_US]=
+Comment=

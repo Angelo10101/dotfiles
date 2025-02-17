@@ -1,0 +1,15 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/HelloWorld" value="true" />
+        <entry key="$USER_HOME$/javasem3" value="true" />
+        <entry key="$USER_HOME$/javasem3/HelloWorld" value="true" />
+        <entry key="$USER_HOME$/javasem3/HelloWorld2" value="true" />
+        <entry key="$USER_HOME$/javasem3/HelloWorldProject" value="true" />
+        <entry key="$USER_HOME$/javasem3/myProject" value="true" />
+        <entry key="$USER_HOME$/javasem3/untitled" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

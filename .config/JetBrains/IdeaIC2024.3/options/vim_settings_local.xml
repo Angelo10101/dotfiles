@@ -1,0 +1,68 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">cQ==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="HelloWorld-ed7ea5db">
+      <jump line="4" column="0" filename="$USER_HOME$/javasem3/HelloWorld/src/Main.java" protocol="file" />
+      <jump line="2" column="39" filename="$USER_HOME$/javasem3/HelloWorld/HelloWorld.java" protocol="file" />
+      <jump line="0" column="18" filename="$USER_HOME$/javasem3/HelloWorld/src/Main.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/javasem3/HelloWorld/.gitignore" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/javasem3/HelloWorld/HelloWorld.java" timestamp="1739047981594">
+        <mark key="&quot;" line="4" column="1" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/usr/lib/jvm/java-1.17.0-openjdk-amd64!/java.base/sun/security/ssl/HelloCookieManager.class" timestamp="1739047876582">
+        <mark key="&quot;" line="14" column="33" />
+      </file>
+      <file name="$USER_HOME$/javasem3/HelloWorld/src/Main.java" timestamp="1739048040603">
+        <mark key="&quot;" line="4" column="1" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="17" />
+      </file>
+      <file name="/HelloWorld.java" timestamp="1739047770471">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="/usr/lib/jvm/java-1.17.0-openjdk-amd64!/jdk.jartool/sun/tools/jar/resources/jar.class" timestamp="1739047874203">
+        <mark key="&quot;" line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/javasem3/HelloWorld/.gitignore" timestamp="1739048022272">
+        <mark key="&quot;" line="12" column="0" />
+      </file>
+      <file name="/usr/lib/jvm/java-1.17.0-openjdk-amd64!/jdk.hotspot.agent/sun/jvm/hotspot/HelloWorld.class" timestamp="1739047878099">
+        <mark key="&quot;" line="7" column="23" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">cQ==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">aQ==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

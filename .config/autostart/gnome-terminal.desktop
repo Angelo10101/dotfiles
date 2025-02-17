@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/asdf/startup-terminal.sh\n
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=terminal on startup
+Name=terminal on startup
+Comment[en_US]=
+Comment=

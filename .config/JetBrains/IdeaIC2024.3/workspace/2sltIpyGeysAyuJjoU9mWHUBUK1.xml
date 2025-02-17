@@ -1,0 +1,49 @@
+<project version="4">
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;JAVA&quot;: {
+      &quot;usageCount&quot;: 16,
+      &quot;lastUsed&quot;: 1739045551271
+    },
+    &quot;PLAIN_TEXT&quot;: {
+      &quot;usageCount&quot;: 4,
+      &quot;lastUsed&quot;: 1739044925457
+    },
+    &quot;AUTO_DETECTED&quot;: {
+      &quot;usageCount&quot;: 4,
+      &quot;lastUsed&quot;: 1739044950217
+    }
+  }
+}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/asdf/javasem3/HelloWorld/HelloWorld.java&quot;,
+    &quot;/home/asdf/javasem3/HelloWorld2/HelloWorld.java&quot;
+  ]
+}</component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="16" lastUsage="1739045551271" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="4" lastUsage="1739044925457" />
+    </language>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="303" height="198" key="SwitcherDM" timestamp="1739045519694">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="303" height="198" key="SwitcherDM/1920.0.1920.1080/3840.0.1366.768/0.0.1920.1080@1920.0.1920.1080" timestamp="1739045519694" />
+    <state x="2478" y="42" width="800" height="706" key="new project wizard" timestamp="1739044998960">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2478" y="42" width="800" height="706" key="new project wizard/1920.0.1920.1080/3840.0.1366.768/0.0.1920.1080@1920.0.1920.1080" timestamp="1739044998960" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/javasem3/HelloWorld.java" />
+    <entry file="file://$USER_HOME$/javasem3/HelloWorld/--light" />
+    <entry file="file://$USER_HOME$/javasem3/HelloWorld2/--light" />
+    <entry file="file://$USER_HOME$/javasem3/HelloWorld/HelloWorld.java" />
+    <entry file="file://$USER_HOME$/javasem3/HelloWorld2/HelloWorld.java" />
+  </component>
+</project>

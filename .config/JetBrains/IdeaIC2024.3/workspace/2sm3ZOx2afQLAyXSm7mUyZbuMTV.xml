@@ -1,0 +1,88 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="untitled" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="187q0ziw9y8a7" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 1,
+      "lastUsed": 1739046978294
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1739046978294" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5005435" visible="true" weight="0.12854889" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" sideWeight="0.49945652" side_tool="true" weight="0.12854889" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32991588" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.12854889" right="0.32991588" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>AIAssistant</value>
+      <value>Structure</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2378" y="135" key="SettingsEditor" timestamp="1739047321335">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2378" y="135" key="SettingsEditor/1920.0.1920.1080/3840.0.1366.768/0.0.1920.1080@1920.0.1920.1080" timestamp="1739047321335" />
+    <state x="2476" y="169" width="800" height="706" key="new project wizard" timestamp="1739047349162">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2476" y="169" width="800" height="706" key="new project wizard/1920.0.1920.1080/3840.0.1366.768/0.0.1920.1080@1920.0.1920.1080" timestamp="1739047349162" />
+    <state x="2543" y="270" width="672" height="713" key="search.everywhere.popup" timestamp="1739047341993">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="270" width="672" height="713" key="search.everywhere.popup/1920.0.1920.1080/3840.0.1366.768/0.0.1920.1080@1920.0.1920.1080" timestamp="1739047341993" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

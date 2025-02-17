@@ -1,0 +1,11 @@
+[Default Applications]
+text/html=firefox_firefox.desktop
+x-scheme-handler/http=firefox_firefox.desktop
+x-scheme-handler/https=firefox_firefox.desktop
+x-scheme-handler/about=firefox_firefox.desktop
+x-scheme-handler/unknown=firefox_firefox.desktop
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+application/pdf=firefox_firefox.desktop
+
+[Added Associations]
+application/pdf=firefox_firefox.desktop;

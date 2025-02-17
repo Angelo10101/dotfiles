@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=org.gabmus.hydrapaper.Daemon
+Comment[de]=Hintergrunddienst für HydraPaper
+Comment[es]=Servicio para HydraPaper
+Comment[it]=Demone per HydraPaper
+Comment=Daemon for HydraPaper
+Icon=org.gabmus.hydrapaper
+Exec=/usr/libexec/hydrapaperd
+X-GNOME-Autostart-Delay=10
+StartupNotify=false
+NoDisplay=true
+Type=Application
+Categories=Utility;GTK;GNOME;
+

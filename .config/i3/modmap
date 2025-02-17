@@ -1,0 +1,18 @@
+! Shift = a
+keycode 38 = Shift_L
+! Control = s
+keycode 39 = Control_L
+! Alt = d
+keycode 40 = Alt_L
+
+! Navigation keys
+keycode 45 = Up
+keycode 43 = Left
+keycode 44 = Down
+keycode 46 = Right
+keycode 30 = Prior
+keycode 32 = Next
+keycode 59 = Home
+keycode 60 = End
+keycode 47 = Delete
+keycode 48 = BackSpace
