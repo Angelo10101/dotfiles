@@ -34,7 +34,7 @@ for_window [class=".*"] border pixel 1
 # bindsym Hyper_L exec --no-startup-id ~/.config/i3/layer_toggle.sh
 
 # Reset keyboard settings
-# exec_always "setxkbmap -option"
+exec_always --no-startup-id "setxkbmap -option"
 # Remap Caps Lock to Escape
 # exec_always "xmodmap -e 'clear Lock' -e 'keycode 66 = Escape'"
 # Start xbindkeys
@@ -42,6 +42,9 @@ for_window [class=".*"] border pixel 1
 
 # snapshot
 bindsym $mod+Shift+s exec flameshot gui
+
+# battery warning
+exec --no-startup-id ~/battery-warning.sh
 
 # make mouse have unnatural scrolling
 exec --no-startup-id xinput set-prop 15 "libinput Natural Scrolling Enabled" 0
@@ -87,6 +90,21 @@ tiling_drag modifier titlebar
 
 # start a terminal
 bindsym $mod+Return exec --no-startup-id cool-retro-term/./cool-retro-term -e bash
+
+# commands for kitty, zen, obsidian:
+for_window [class="gnome-terminal"] move to workspace current  
+for_window [class="zen"] move to workspace current  
+# for_window [class="obsidian"] move to workspace current  
+
+bindsym Ctrl+$mod+z exec gnome-terminal  
+bindsym Ctrl+$mod+x exec zen-browser  
+bindsym Ctrl+$mod+c exec obsidian  
+bindsym $mod+z exec "xdotool search --onlyvisible --class gnome-terminal | head -1 | xargs -I {} xdotool windowactivate {}"  
+bindsym $mod+x exec "[ $(pgrep -x zen-browser) ] && wmctrl -xa Navigator || zen-browser"  
+bindsym $mod+c exec "xdotool search --name 'sem3 - Obsidian' | head -1 | xargs xdotool windowactivate"  
+
+
+
 
 # kill focused window
 bindsym $mod+q kill
@@ -136,6 +154,8 @@ bindsym $mod+f fullscreen toggle
 bindsym $mod+s layout stacking
 bindsym $mod+w layout tabbed
 bindsym $mod+e layout toggle split
+# Set window border to invisible
+for_window [class=".*"] border pixel 0
 
 # toggle tiling / floating
 bindsym $mod+Shift+space floating toggle
@@ -236,6 +256,13 @@ client.placeholder      #876BAF   #876BAF   #ffffff  #876BAF   #876BAF
 # script to check for primary display
 #exec --no-startup-id ~/.config/i3/display-setup.sh &
 
+# Colors for the tabbed layout
+for_window [window_role="tab"] border pixel 1
+client.focused          #5A4E7A   #5A4E7A   #ffffff  #5A4E7A   #5A4E7A
+client.focused_inactive #6B579C   #6B579C   #ffffff  #6B579C   #6B579C
+client.unfocused        #4A3C7D   #4A3C7D   #888888  #4A3C7D   #4A3C7D
+client.urgent           #7A6BC0   #7A6BC0   #ffffff  #7A6BC0   #7A6BC0
+client.placeholder      #6F5CA2   #6F5CA2   #ffffff  #6F5CA2   #6F5CA2
 # terminals on startup
 # exec --no-startup-id cool-retro-term/./cool-retro-term -e bash -c "neofetch; exec bash"
 
