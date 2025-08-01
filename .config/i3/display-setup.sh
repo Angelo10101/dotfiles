@@ -12,8 +12,8 @@ right_monitor=""
 laptop_monitor=""
 
 # Check if HDMI-0 is connected
-if echo "$connected_monitors" | grep -q "HDMI-0"; then
-  primary_monitor="HDMI-0"
+if echo "$connected_monitors" | grep -q "HDMI-1"; then
+  primary_monitor="HDMI-1"
 fi
 
 # Check if DP-0 is connected
