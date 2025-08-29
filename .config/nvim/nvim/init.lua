@@ -1,7 +1,10 @@
-vim.cmd("set expandtab")
-vim.cmd("set tabstop=2")
-vim.cmd("set softtabstop=2")
-vim.cmd("set shiftwidth=2")
+
+-- vim.cmd("set expandtab")       -- Use spaces instead of tabs
+vim.cmd("set textwidth=80")
+vim.cmd("set tabstop=4")       -- Tabs count as 4 columns visually
+vim.cmd("set shiftwidth=4")    -- Indent by 4 spaces
+vim.cmd("set autoindent")
+
 vim.g.mapleader = " "
 -- Bootstrap lazy.nvim
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
@@ -51,3 +54,16 @@ require('lualine').setup {
 		},
 }
 
+
+local function format_c_file()
+  -- Run clang-format with your config file
+  local file = vim.fn.expand("%:p") -- full path of current file
+  local cmd = string.format("clang-format -i --style=file %s", file)
+  vim.fn.system(cmd)
+
+  -- Reload buffer after formatting
+  vim.cmd("edit!")
+end
+
+-- Create a command you can run manually
+vim.api.nvim_create_user_command("ClangFormat", format_c_file, {})
